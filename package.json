@@ -68,19 +68,19 @@
   },
   "dependencies": {
     "@huggingface/tokenizers": "^0.1.3",
-    "@huggingface/transformers": "^3.8.1",
-    "@modelcontextprotocol/client": "2.0.0",
+    "@huggingface/transformers": "^4.3.2",
+    "@modelcontextprotocol/client": "2.3.0",
     "@modelcontextprotocol/core": "2.0.0",
     "@modelcontextprotocol/node": "2.0.0",
-    "@modelcontextprotocol/server": "2.0.0",
+    "@modelcontextprotocol/server": "2.4.0",
     "@vscode/ripgrep": "^1.18.0",
     "@zvec/zvec": "^0.7.0",
     "jsonc-parser": "^3.3.1",
     "tree-sitter-wasms": "^0.1.13",
     "web-tree-sitter": "^0.20.8",
-    "zod": "4.2.0"
+    "zod": "4.6.7"
   },
   "optionalDependencies": {
-    "node-llama-cpp": "3.18.1"
+    "node-llama-cpp": "3.22.3"
   }
 }
