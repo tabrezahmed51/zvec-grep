@@ -71,7 +71,7 @@
     "@huggingface/transformers": "^4.3.2",
     "@modelcontextprotocol/client": "2.3.0",
     "@modelcontextprotocol/core": "2.0.0",
-    "@modelcontextprotocol/node": "2.0.0",
+    "@modelcontextprotocol/node": "2.1.0",
     "@modelcontextprotocol/server": "2.4.0",
     "@vscode/ripgrep": "^1.18.0",
     "@zvec/zvec": "^0.7.0",
